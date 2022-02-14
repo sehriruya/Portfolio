@@ -5,5 +5,5 @@ Hi, I am a data analytics student, will be publishing the following analytics po
 <br>
 2. Project BetterHelp: BetterHelp Ios & Android Customer Reviews Analysis
 <br>
-3. Project King County Housing: Estimating Housing Price 
+3. Project King County Housing: Housing Price Prediction Model
 <p/>
